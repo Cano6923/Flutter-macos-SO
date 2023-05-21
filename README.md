@@ -36,7 +36,8 @@ Macos OS (Flutter)
 
 
 <div id='1' />
-## **Rosseta-Software**
+## Rosseta-Software
+
 ```bash
 
 softwareupdate --install-rosetta
@@ -53,7 +54,7 @@ sudo softwareupdate --install-rosetta --agree-to-license
 
 --------------------------------------
 <div id='2' />
-## **Xcode**
+## Xcode
 
 
 
@@ -70,7 +71,7 @@ sudo softwareupdate --install-rosetta --agree-to-license
 
 --------------------------------------
 <div id='3' />
-## **Homebrew**
+## Homebrew
 
 
 ```bash
@@ -91,7 +92,7 @@ sudo softwareupdate --install-rosetta --agree-to-license
 
 --------------------------------------
 <div id='4' />
-## **Ruby**
+## Ruby
 
 ```bash
 
@@ -153,7 +154,7 @@ sudo softwareupdate --install-rosetta --agree-to-license
 
 --------------------------------------
 <div id='id5' />
-## **Fluttter**
+## Fluttter
 
 
 < Intel
@@ -277,4 +278,4 @@ sudo gem uninstall ffi && sudo gem install ffi -- --enable-libffi-alloc
 
 --------------------------------------
 <div id='id7' />
-## **Android-Studio**
+## Android-Studio
