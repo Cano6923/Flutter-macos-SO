@@ -13,30 +13,30 @@ Macos OS (Flutter)
 
 ## **Temario full guide**
 
-- [**Rosseta Software**](#1)
-- [**Xcode**](#2)
-- [**Homebrew**](#3)
-- [**Ruby**](#4)
-  - [**Utilidades & requerimientos**](#4.1)
-    - [**Git**](#4.2)
-    - [**Cocopods**](#4.3)
-    - [**Watchman**](#4.4)
-    - [**pod**](#4.4)
-    - [**fifi**](#4.5)
-    - [**Podman**](#4.6)
-- [**Flutter**](#5)
-  - [**Config & Setup**](#5.2)
-- [**VS Code**](#6)
-  - [**Extensiones**](#6.1)
-  - [**Config & Setup**](#6.2)
-- [**Android Studio**](#7)
-  - [**Config & Flutter Setup**](#7.1)
+- [**Rosseta Software**](#id1)
+- [**Xcode**](#id2)
+- [**Homebrew**](#id3)
+- [**Ruby**](#id4)
+  - [**Utilidades & requerimientos**](#id4.1)
+    - [**Git**](#id4.2)
+    - [**Cocopods**](#id4.3)
+    - [**Watchman**](#id4.4)
+    - [**pod**](#id4.4)
+    - [**fifi**](#id4.5)
+    - [**Podman**](#id4.6)
+- [**Flutter**](#id5)
+  - [**Config & Setup**](#id5.2)
+- [**VS Code**](#id6)
+  - [**Extensiones**](#id6.1)
+  - [**Config & Setup**](#id6.2)
+- [**Android Studio**](#id7)
+  - [**Config & Flutter Setup**](id#7.1)
 
 ------------------
 
 
 <div id='1' />
-##Rosseta-Software
+## Rosseta-Software
 
 ```bash
 
@@ -54,7 +54,7 @@ sudo softwareupdate --install-rosetta --agree-to-license
 
 --------------------------------------
 <div id='2' />
-##Xcode
+## Xcode
 
 
 
