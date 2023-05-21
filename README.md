@@ -9,36 +9,32 @@ Macos OS (Flutter)
 ██║ ╚═╝ ██║██║ ██║╚██████╗╚██████╔╝███████║
 ╚═╝ ╚═╝╚═╝ ╚═╝ ╚═════╝ ╚═════╝ ╚══════╝
 
---------------------------------------
+---
 
 ## **Temario full guide**
 
-- [**Rosseta Software**](#id1)
-- [**Xcode**](#id2)
-- [**Homebrew**](#id3)
-- [**Ruby**](#id4)
-  - [**Utilidades & requerimientos**](#id4.1)
-    - [**Git**](#id4.2)
-    - [**Cocopods**](#id4.3)
-    - [**Watchman**](#id4.4)
-    - [**pod**](#id4.4)
-    - [**fifi**](#id4.5)
-    - [**Podman**](#id4.6)
-- [**Flutter**](#id5)
-  - [**Config & Setup**](#id5.2)
-- [**VS Code**](#id6)
-  - [**Extensiones**](#id6.1)
-  - [**Config & Setup**](#id6.2)
-- [**Android Studio**](#id7)
-  - [**Config & Flutter Setup**](id#7.1)
+- [**Rosseta Software**](1)
+- [**Xcode**](#Xcode)
+- [**Homebrew**](#Homebrew)
+- [**Ruby**](#Ruby)
+  - [**Utilidades & requerimientos**](#table-of-contents)
+    - [**Git**](#Git)
+    - [**Cocopods**](#Cocopods)
+    - [**Watchman**](#Watchman)
+    - [**pod**](#pod)
+    - [**fifi**](#fifi)
+    - [**Podman**](#Podman)
+- [**Flutter**](#Flutter)
+  - **Config & Setup**
+- [**VS Code**](#VS-Code)
+  - [**Extensiones**](#table-of-contents)
+  - [**Config & Setup**](#table-of-contents)
+- [**Android Studio**](#Android-Studio)
+  - [**Config & Flutter Setup**](#Config-&-Flutter-Setup)
 
-------------------
+---
 
-
-
-
-<div id='1' />
-1.  Rosseta-Software
+## **[Rosseta-Software](1)**
 
 ```bash
 
