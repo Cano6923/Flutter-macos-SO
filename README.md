@@ -36,7 +36,7 @@ Macos OS (Flutter)
 
 
 <div id='1' />
-## Rosseta-Software
+##Rosseta-Software
 
 ```bash
 
@@ -54,7 +54,7 @@ sudo softwareupdate --install-rosetta --agree-to-license
 
 --------------------------------------
 <div id='2' />
-## Xcode
+##Xcode
 
 
 
